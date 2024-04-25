@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">EventManager</string>
-    <string name="my_map_api_key">AIzaSyCNhJT4C7cAcL-7p-oVz_RYvtfaMJJ5now</string>
+    <string name="my_map_api_key">write your cloud api key</string>
 </resources>
